@@ -1,0 +1,6 @@
+@import url('./utils.css');
+
+.search-bar{
+    border-radius: 10px;
+    border: 1px solid gray;
+}
